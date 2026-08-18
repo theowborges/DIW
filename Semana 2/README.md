@@ -14,4 +14,4 @@ Theo Borges
 
 ### Resultado do index.html
 
-![Resultado do index.html](images/hello-world.png)
+![Resultado do index.html](images/site.png)
