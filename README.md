@@ -1,2 +1,0 @@
-# DIW
-Atividade de DIW
